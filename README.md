@@ -24,7 +24,6 @@ below (threshold cut-offs are indicated by dashed red lines).
 
 ### Further details
 
-Details of the behavioral experiments and control eyetracking data can be found in Chapter 2 of my PhD thesis here:                              
-http://sj971.github.io/docs/thesis_sjackson.pdf
+This example and related experiments formed part of my PhD thesis; reach out to learn more.
 
 ![Saccade detection](sample_saccade.png)
