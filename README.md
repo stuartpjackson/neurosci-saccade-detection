@@ -24,6 +24,6 @@ below (threshold cut-offs are indicated by dashed red lines).
 
 ### Further details
 
-This example and related experiments formed part of my PhD thesis (NYU, 2016); reach out to learn more.
+This example and related experiments formed part of my PhD thesis (NYU, 2016) - reach out to learn more.
 
 ![Saccade detection](sample_saccade.png)
